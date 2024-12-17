@@ -29,4 +29,4 @@ helped solidify my understanding of creating visual representations of programs.
 I liked the fact that the course used C++ as the programming language to implement each program.
 I don't use it professionally, so it was cool to dive deeper into the language.
 I think using a "lower-level" language like C++ forced me to really think through each detail of the program.
-That practice of deep thinking definetly developed my overall programming ability.
+That practice of deep thinking definetly improved my ability to write maintainable, readable, and adaptable programs.
